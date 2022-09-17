@@ -15,8 +15,8 @@
 - Finally, You'll find a folder called `dwd3` in your game folder which has all the pub files
 
 ### Credits
-[momo5502](https://github.com/momo5502) - MH-hooking api
+- [momo5502](https://github.com/momo5502) - MH-hooking api
 
 ### Wouldn't be possible without
-[Hossein](https://github.com/hosseinpourziyaie)
-[quaK](https://github.com/Joelrau)
+- [Hossein](https://github.com/hosseinpourziyaie)
+- [quaK](https://github.com/Joelrau)
