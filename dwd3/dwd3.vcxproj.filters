@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stdinc.cpp" />
+    <ClCompile Include="stuff\stuff.cpp">
+      <Filter>stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="h1\h1.cpp">
+      <Filter>H1</Filter>
+    </ClCompile>
+    <ClCompile Include="s1\s1.cpp">
+      <Filter>S1</Filter>
+    </ClCompile>
+    <ClCompile Include="stuff\hook.cpp">
+      <Filter>stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="stuff\console.cpp">
+      <Filter>stuff</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdinc.hpp" />
+    <ClInclude Include="stuff\stuff.hpp">
+      <Filter>stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="h1\h1.hpp">
+      <Filter>H1</Filter>
+    </ClInclude>
+    <ClInclude Include="s1\s1.hpp">
+      <Filter>S1</Filter>
+    </ClInclude>
+    <ClInclude Include="stuff\hook.hpp">
+      <Filter>stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="stuff\structs.hpp">
+      <Filter>stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="stuff\console.hpp">
+      <Filter>stuff</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="H1">
+      <UniqueIdentifier>{e01367ab-d868-4f54-8c0f-7041edf0b114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="S1">
+      <UniqueIdentifier>{d35f19ad-a142-42cf-8906-5c48469fe1d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stuff">
+      <UniqueIdentifier>{f4d0565e-2ef4-4e63-b39b-c98962b26641}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
