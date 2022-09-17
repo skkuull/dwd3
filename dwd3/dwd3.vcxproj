@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="h1\h1.cpp" />
+    <ClCompile Include="iw6\iw6.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="s1\s1.cpp" />
     <ClCompile Include="stdinc.cpp" />
@@ -139,6 +140,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="h1\h1.hpp" />
+    <ClInclude Include="iw6\iw6.hpp" />
     <ClInclude Include="s1\s1.hpp" />
     <ClInclude Include="stdinc.hpp" />
     <ClInclude Include="stuff\console.hpp" />

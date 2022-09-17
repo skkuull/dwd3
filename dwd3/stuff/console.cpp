@@ -1,8 +1,6 @@
 #include "../stdinc.hpp"
 #include "console.hpp"
 #include "stuff.hpp"
-#include "../s1/s1.hpp"
-#include "../h1/h1.hpp"
 
 namespace skull
 {
