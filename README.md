@@ -6,6 +6,7 @@
 | Game     | Supported          |
 |:---------|:-------------------|
 | `IW6`    | :heavy_check_mark: |
+| `IW7`    | :heavy_check_mark: |
 | `H1`     | :heavy_check_mark: |
 | `S1`     | :heavy_check_mark: |
 
