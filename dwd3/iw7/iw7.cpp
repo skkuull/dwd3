@@ -42,10 +42,10 @@ namespace iw7
         return result;
     }
 
-	void dump()
-	{
+    void dump()
+    {
         skull::warning("Game Detected: IW7\n");
         skull::check_directory("dwd3/iw7/");
         dwFetchFileComplete_hook.create(skull::base_address + 0xDB0D70, dwFetchFileComplete_stub);
-	}
+    }
 }
