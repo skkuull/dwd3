@@ -21,6 +21,9 @@
     <ClCompile Include="iw6\iw6.cpp">
       <Filter>IW6</Filter>
     </ClCompile>
+    <ClCompile Include="iw7\iw7.cpp">
+      <Filter>IW7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdinc.hpp" />
@@ -45,6 +48,9 @@
     <ClInclude Include="iw6\iw6.hpp">
       <Filter>IW6</Filter>
     </ClInclude>
+    <ClInclude Include="iw7\iw7.hpp">
+      <Filter>IW7</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="H1">
@@ -58,6 +64,9 @@
     </Filter>
     <Filter Include="IW6">
       <UniqueIdentifier>{ba0092b0-f124-4be3-aa12-8bfab694bbe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IW7">
+      <UniqueIdentifier>{279d50d3-d22a-42c7-9a03-937a28ba04c8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
